@@ -131,3 +131,6 @@ Get the file you want to submit and just run `python prep_file.py file_tosubmit.
 - [ ] Fix and make 'light' version without malwares with _MalwareFetch function. 
 
 If you have any suggestions or malware that you have indexed (in the manner laid out in the documentation) please send it to us to - yuval[]morirt [dot]com - so we can add it for everyones enjoyment.
+
+## Disclaimer
+This repository is for research purposes only, the use of this code is your responsibility.
